@@ -44,10 +44,6 @@
 
 <p>Resultado = Cantidad × (Valor de la moneda de origen / Valor de la moneda de destino)</p>
 
-<h2>Ejemplo de Uso</h2>
-
-$ java Main
-
 <h2>Requisitos</h2>
 <p>- Java 8 o superior</p>
 <p>- Biblioteca GSON</p>
